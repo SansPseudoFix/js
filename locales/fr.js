@@ -147,7 +147,7 @@ locales.fr = {
     "{{num_shared_with}} person": "{{num_shared_with}} personne",
     "Offline mode": "Mode hors-ligne",
     "ok": "correct",
-    "One hash makes a large title": "Un croisillon # fait un grand titre",
+    "One hash makes a large title": "Un croisillon (#) fait un grand titre",
     "Open board dropdown": "Ouvrir la liste des tableaux",
     "Open current note": "Ouvrir la note actuelle",
     "(Optional) Enable sharing by creating a persona": "(Facultatif) Permettre le partage en créant un persona",
@@ -269,7 +269,7 @@ locales.fr = {
     "Turtl now also supports TeX math. Begin and end your equation(s) with <code>$$</code>:": "Turtl supporte aussi à présent les formules mathématiques TeX. Commencez et terminez vos équations par <code>$$</code> :",
     "Turtl places": "Menu",
     "Turtl server": "Serveur Turtl",
-    "Two hashes for a smaller header": "Deux croisillons ## pour un titre plus petit",
+    "Two hashes for a smaller header": "Deux croisillons (##) pour un titre plus petit",
     "Unlock and accept": "Déverrouiller et accepter",
     "Unlock": "Déverrouiller",
     "Unshare": "Ne plus partager",
@@ -310,4 +310,3 @@ locales.fr = {
     "Your public persona has been created!": "Votre persona public a été créé !",
     "Your settings": "Vos paramètres"
 };
-
